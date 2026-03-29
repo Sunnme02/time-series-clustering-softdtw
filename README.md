@@ -50,17 +50,11 @@ Main findings:
 ### DTW Illustration
 ![DTW Illustration](dtw_case.png)
 
-## Report
-
-[Project Thesis PDF](thesis.pdf.pdf)
 
 ## Report
 
 [Project Thesis PDF](thesis.pdf)
 
-## Report
-
-[Project Thesis PDF](thesis.pdf.pdf)
 ## Tech Stack
 
 Python, DTW, Soft-DTW, K-means, AKShare, Baostock, pandas, NumPy, matplotlib
