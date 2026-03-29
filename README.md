@@ -36,7 +36,23 @@ Main findings:
 - Banking stocks showed relatively strong internal consistency
 - Semiconductor stocks exhibited greater heterogeneity
 - Some clusters reflected sector concentration, while others captured cross-sector temporal similarities
+## Figures
 
+### Soft-DTW Clustering Result (γ = 0.1)
+![Soft-DTW Clustering Result](0.1.png)
+
+### Sector Distribution Under γ = 0.1
+![Sector Distribution](bing0.1.png)
+
+### Comparison Across Different γ Values
+![Gamma Comparison](compare.png)
+
+### DTW Illustration
+![DTW Case](dtw%20case.png)
+
+## Report
+
+[Project Thesis PDF](thesis.pdf.pdf)
 ## Tech Stack
 
 Python, DTW, Soft-DTW, K-means, AKShare, Baostock, pandas, NumPy, matplotlib
