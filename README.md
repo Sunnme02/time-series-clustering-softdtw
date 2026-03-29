@@ -38,17 +38,23 @@ Main findings:
 - Some clusters reflected sector concentration, while others captured cross-sector temporal similarities
 ## Figures
 
+## Figures
+
 ### Soft-DTW Clustering Result (γ = 0.1)
-![Soft-DTW Clustering Result](0.1.png)
+![Soft-DTW Clustering Result](softdtw_clustering_gamma_0_1.png)
 
 ### Sector Distribution Under γ = 0.1
-![Sector Distribution](bing0.1.png)
+![Sector Distribution](sector_distribution_gamma_0_1.png)
 
 ### Comparison Across Different γ Values
-![Gamma Comparison](compare.png)
+![Gamma Comparison](gamma_comparison.png)
 
 ### DTW Illustration
-![DTW Case](dtw%20case.png)
+![DTW Case](dtw_case.png)
+
+## Report
+
+[Project Thesis PDF](thesis.pdf)
 
 ## Report
 
